@@ -46,6 +46,11 @@ or
 
     $ conda install -c conda-forge folium
 
+## install the dependencies
+```
+pip install -r requirements.txt
+```
+
 Documentation
 -------------
 
